@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👨‍🎓 Soy Desarrollador de Software graduado de la Universidad Del Valle.<br>📚 Conocimientos adquiridos como Metodologías de Trabajo Scrum, SQL, Python, Java, React, C++, Iteracion y manipulacion de datos.<br>💭 Actualemnte estoy aprendiendo React, CRM, Machine Learning, Analisis de datos.<br>🏋️‍♂️ En mis tiempos libre me gusta ir al gimnasio, Ver series o Jugar videojuegos online.<br>📧 Puedes hablarme a estas direcciones<br><br>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</h3>
+<h3 align="left">👨‍🎓 Soy Desarrollador de Software graduado de la Universidad Del Valle.<br>📚 Conocimientos adquiridos como Metodologías de Trabajo Scrum, SQL, HTML, Kotlin, Python, Java, React, C++, Iteracion y manipulacion de datos.<br>💭 Actualemnte estoy aprendiendo React, CRM, Machine Learning, Analisis de datos.<br>🏋️‍♂️ En mis tiempos libre me gusta ir al gimnasio, Ver series o Jugar videojuegos online.<br>📧 Puedes hablarme a estas direcciones<br><br>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</h3>
 
 ###
 
