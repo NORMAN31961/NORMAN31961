@@ -56,6 +56,7 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/NORMAN31961/NORMAN31961/output/snake.svg" alt="Snake animation" />
 
 ###
 
