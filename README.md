@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=jeancarlosa3191@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/jean-sanchez-a91544303/" target="_blank">
+  <a href="www.linkedin.com/in/jean-sanchezdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/573222773239" target="_blank">
