@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👨‍🎓 Soy Desarrollador de Software graduado de la Universidad Del Valle.<br>📚 Conocimientos adquiridos como Metodologías de Trabajo Scrum, SQL, HTML, Kotlin, Python, Java, React, C++, Iteracion y manipulacion de datos.<br>💭 Actualemnte estoy aprendiendo React, CRM, Machine Learning, Analisis de datos.<br>🏋️‍♂️ En mis tiempos libre me gusta ir al gimnasio, Ver series o Jugar videojuegos online.<br>📧 Puedes hablarme a estas direcciones<br><br>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</h3>
+<h3 align="left">👨‍🎓 Soy Desarrollador de Software graduado de la Universidad Del Valle.<br>📚 Conocimientos adquiridos como Metodologías de Trabajo Scrum, SQL, Python, Java, Angular, CSS, Iteracion y manipulación de datos.<br>💭 Actualmente estoy aprendiendo React, Angular, CRM, Machine Learning, Analisis de datos.<br>🏋️‍♂️ En mis tiempos libre me gusta ir al gimnasio, Ver series o jugar videojuegos online.<br>📧 Puedes hablarme a estas direcciones<br><br>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</h3>
 
 ###
 
@@ -18,7 +18,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=jeancarlosa3191@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   <a href="www.linkedin.com/in/jean-sanchezdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=linkedin.com/in/jean-sanchezdev&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/573222773239" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="whatsapp logo"  />
@@ -37,13 +37,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="51" alt="react logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="51" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="51" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="51" alt="kotlin logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="51" alt="java logo"  />
   <img width="15" />
@@ -52,10 +48,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="51" alt="sqlite logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="51" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="51" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="51" alt="angularjs logo"  />
 </div>
-
-###
-
 
 ###
 
